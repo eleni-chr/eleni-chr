@@ -1,11 +1,13 @@
-### Hi, 👋
+### 👋 Hi,
 
 I am a neuroscientist currently trying to discover more about neurodegeneration and neuroinflammation. I regularly write code for data analysis for my experiments.
 
-- For image processing and analysis I use MATLAB and ImageJ (Java-based).
-- For bioinformatics analysis I use R, and data processing toolkits run via the Linux and Windows command lines.
+- For microscopy image processing and analysis I use MATLAB and ImageJ (Java-based).
+- For bioinformatics analysis (data from RNA sequencing) I use R, and data processing toolkits run via the Linux and Windows command lines.
 
-Here are some ideas to get you started:
+My older repositories include functions I wrote for practice when learning to code. My newer repositories include functions I wrote for my own data analysis at work.
+
+Check out my website/blog: [www.elenichr.com].
 
 ## 🔭 I’m currently working on:
 
@@ -20,7 +22,6 @@ Here are some ideas to get you started:
 
 ## 📫 How to reach me:
 
-- Website/blog: [www.elenichr.com]
 - Twitter: [www.twitter.com/elenivchristof]
 - LinkedIn: [https://uk.linkedin.com/in/elenichristoforidou]
 - Science communication (instagram): [www.instagram.com/neuroscientist.at.work]
