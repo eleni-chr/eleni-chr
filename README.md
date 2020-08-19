@@ -21,7 +21,7 @@ Writing MATLAB functions for analysing microscopy images.
 ## 📫 How to reach me:
 
 - Website/blog: [www.elenichr.com]
-- Twitter: [twitter.com/elenivchristof]
+- Twitter: [www.twitter.com/elenivchristof]
 - LinkedIn: [https://uk.linkedin.com/in/elenichristoforidou]
-- Science communication (instagram): [instagram.com/neuroscientist.at.work]
-- ResearchGate: [researchgate.net/profile/Eleni_Christoforidou2]
+- Science communication (instagram): [www.instagram.com/neuroscientist.at.work]
+- ResearchGate: [www.researchgate.net/profile/Eleni_Christoforidou2]
