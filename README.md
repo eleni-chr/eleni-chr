@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 
 ## 🔭 I’m currently working on:
 
-Writing MATLAB functions for analysing microscopy images.
+- Writing MATLAB functions for analysing microscopy images.
 
 ## 🌱 I’m currently learning:
 
