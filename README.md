@@ -7,7 +7,7 @@ I am a neuroscientist currently trying to discover more about neurodegeneration 
 
 My older repositories include functions I wrote for practice when learning to code. My newer repositories include functions I wrote for my own data analysis at work.
 
-Check out my website/blog: [www.elenichr.com].
+Check out my website/blog: [www.elenichr.com][1]
 
 ## 🔭 I’m currently working on:
 
@@ -22,7 +22,13 @@ Check out my website/blog: [www.elenichr.com].
 
 ## 📫 How to reach me:
 
-- Twitter: [www.twitter.com/elenivchristof]
-- LinkedIn: [https://uk.linkedin.com/in/elenichristoforidou]
-- Science communication (instagram): [www.instagram.com/neuroscientist.at.work]
-- ResearchGate: [www.researchgate.net/profile/Eleni_Christoforidou2]
+- Twitter: [www.twitter.com/elenivchristof][2]
+- LinkedIn: [https://uk.linkedin.com/in/elenichristoforidou][3]
+- Science communication (instagram): [www.instagram.com/neuroscientist.at.work][4]
+- ResearchGate: [www.researchgate.net/profile/Eleni_Christoforidou2][5]
+
+[1]: www.elenichr.com
+[2]: www.twitter.com/elenivchristof
+[3]: https://uk.linkedin.com/in/elenichristoforidou
+[4]: www.instagram.com/neuroscientist.at.work
+[5]: www.researchgate.net/profile/Eleni_Christoforidou2
