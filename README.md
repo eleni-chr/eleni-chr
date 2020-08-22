@@ -11,7 +11,7 @@ Check out my website/blog: [www.elenichr.com][1]
 
 ## 🔭 I’m currently working on:
 
-- Writing MATLAB functions for analysing microscopy images.
+- Writing functions for analysing microscopy images.
 
 ## 🌱 I’m currently learning:
 
@@ -22,6 +22,7 @@ Check out my website/blog: [www.elenichr.com][1]
 
 ## 📫 How to reach me:
 
+- Website/blog: [www.elenichr.com][1]
 - Twitter: [www.twitter.com/elenivchristof][2]
 - LinkedIn: [https://uk.linkedin.com/in/elenichristoforidou][3]
 - Science communication (instagram): [www.instagram.com/neuroscientist.at.work][4]
