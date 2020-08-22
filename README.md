@@ -25,7 +25,7 @@ Check out my website/blog: [www.elenichr.com][1]
 - Website/blog: [www.elenichr.com][1]
 - Twitter: [www.twitter.com/elenivchristof][2]
 - LinkedIn: [https://uk.linkedin.com/in/elenichristoforidou][3]
-- Science communication (instagram): [www.instagram.com/neuroscientist.at.work][4]
+- Science communication (Instagram): [www.instagram.com/neuroscientist.at.work][4]
 - ResearchGate: [www.researchgate.net/profile/Eleni_Christoforidou2][5]
 
 [1]: www.elenichr.com
