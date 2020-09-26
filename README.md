@@ -1,6 +1,6 @@
 ### 👋 Hi,
 
-I am a neuroscientist currently trying to discover more about neurodegeneration and neuroinflammation. I regularly write code for data analysis for my experiments.
+I am a neuroscientist currently trying to discover more about neurodegeneration and neuroinflammation. I regularly write code for data analysis for my experiments and for fun.
 
 - For microscopy image processing and analysis I use MATLAB and ImageJ (Java-based).
 - For bioinformatics analysis (data from RNA sequencing) I use R, and data processing toolkits run via the Linux and Windows command lines.
@@ -17,7 +17,7 @@ Check out my website/blog: [www.elenichr.com][1]
 
 - Object oriented programming
 - How to create graphical user interfaces in MATLAB
-- How to apply machine learning merthods for data classification and prediction
+- How to apply machine learning methods for data classification and prediction
 - Methods for signal frequency analysis
 
 ## 📫 How to reach me:
