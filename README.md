@@ -24,6 +24,13 @@ My older repositories include code I wrote for practice when learning programmin
 ![](https://img.shields.io/badge/Tools-Illustrator-informational?style=flat&logo=Adobe-Illustrator&logoColor=white&color=f3b745)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=f3b745)
 
+![](https://img.shields.io/badge/Bioinformatics-Bioconductor-informational?style=flat&color=f3b745)
+![](https://img.shields.io/badge/Bioinformatics-BLAST-informational?style=flat&color=f3b745)
+![](https://img.shields.io/badge/Bioinformatics-IGV-informational?style=flat&color=f3b745)
+![](https://img.shields.io/badge/Bioinformatics-ClustalW-informational?style=flat&color=f3b745)
+![](https://img.shields.io/badge/Bioinformatics-Guppy-informational?style=flat&color=f3b745)
+![](https://img.shields.io/badge/Bioinformatics-featureCounts-informational?style=flat&color=f3b745)
+
 ## 🔭 I’m currently working on:
 
 - Writing code for analysing microscopy images, and for processing, visualising, and plotting RNA-seq data.
