@@ -47,9 +47,11 @@ My older repositories include code I wrote for practice when learning programmin
 ## 📈 GitHub Stats
 
 <a href="https://github.com/eleni-chr">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eleni-chr&hide=html,css&title_color=f3b745&text_color=fff&icon_color=f3b745&bg_color=14171A" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eleni-chr&hide=html&layout=compact&theme=transparent&langs_count=10" />
 </a>
 
 <a href="https://github.com/eleni-chr">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=eleni-chr&show_icons=true&line_height=27&count_private=true&title_color=f3b745&text_color=fff&icon_color=fff&bg_color=14171A" alt="Eleni Christoforidou's GitHub Stats" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=eleni-chr&show_icons=true&line_height=27&count_private=true&theme=transparent&count_private=true&include_all_commits=true" alt="Eleni Christoforidou's GitHub Stats" />
 </a>
+
+Powered by [Github stats](https://github.com/anuraghazra/github-readme-stats).
