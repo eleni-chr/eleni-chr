@@ -37,8 +37,6 @@ My older repositories include code I wrote for practice when learning programmin
 
 ## 🌱 I’m currently learning:
 
-- Object oriented programming
-- How to create graphical user interfaces
 - How to apply machine learning methods for data classification and prediction
 - Methods for signal frequency analysis
 
