@@ -33,12 +33,13 @@ My older repositories include code I wrote for practice when learning programmin
 
 ## 🔭 I’m currently working on:
 
-- Writing code for analysing microscopy images, and for processing, visualising, and plotting RNA-seq data.
+- Creating a graphical user interface for visualising global infectious disease cases.
+- Applying machine learing methods for data classification and prediction.
 
 ## 🌱 I’m currently learning:
 
-- How to apply machine learning methods for data classification and prediction
-- Methods for signal frequency analysis
+- Methods for signal frequency analysis.
+- Methods of manipulating high dimensional datasets for visualisation and analysis.
 
 ## 📫 How to reach me:
 
