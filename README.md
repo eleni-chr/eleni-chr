@@ -7,7 +7,7 @@ I am a neuroscientist and I regularly write code for data analysis for my experi
 
 My older repositories include code I wrote for practice when learning programming. My newer repositories include code I wrote for my own data analysis at work.
 
-## 💼 Skills:
+## 💼 Programming Skills:
 
 ![](https://img.shields.io/badge/Code-MATLAB-informational?style=flat&color=f3b745)
 ![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=r&logoColor=white&color=f3b745)
@@ -20,16 +20,6 @@ My older repositories include code I wrote for practice when learning programmin
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=f3b745)
 ![](https://img.shields.io/badge/OS-Ubuntu-informational?style=flat&logo=ubuntu&logoColor=white&color=f3b745)
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=f3b745)
-
-![](https://img.shields.io/badge/Tools-Illustrator-informational?style=flat&logo=Adobe-Illustrator&logoColor=white&color=f3b745)
-![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=f3b745)
-
-![](https://img.shields.io/badge/Bioinformatics-Bioconductor-informational?style=flat&color=f3b745)
-![](https://img.shields.io/badge/Bioinformatics-BLAST-informational?style=flat&color=f3b745)
-![](https://img.shields.io/badge/Bioinformatics-IGV-informational?style=flat&color=f3b745)
-![](https://img.shields.io/badge/Bioinformatics-ClustalW-informational?style=flat&color=f3b745)
-![](https://img.shields.io/badge/Bioinformatics-Guppy-informational?style=flat&color=f3b745)
-![](https://img.shields.io/badge/Bioinformatics-featureCounts-informational?style=flat&color=f3b745)
 
 ## 🔭 I’m currently working on:
 
@@ -50,13 +40,32 @@ My older repositories include code I wrote for practice when learning programmin
 [![ResearchGate Badge](https://img.shields.io/badge/ResearchGate-informational?style=flat&logo=researchgate&logoColor=white&color=00CCBB)](https://www.researchgate.net/profile/Eleni_Christoforidou2)
 [![ORCID Badge](https://img.shields.io/badge/ORCID-informational?style=flat&logo=orcid&logoColor=white&color=A6CE39)](https://orcid.org/0000-0002-9352-4908)
 
+## 🏆 Github Profile Trophies:
+
+<br />
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+ <img src="https://github-profile-trophy.vercel.app/?username=eleni-chr&column=8&theme=transparent"/>
+</a>
+
 ## 📈 GitHub Stats
 
-<a href="https://github.com/eleni-chr">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eleni-chr&hide=html&layout=compact&theme=transparent&langs_count=10" />
-</a>
-<a href="https://github.com/eleni-chr">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=eleni-chr&show_icons=true&line_height=27&count_private=true&theme=transparent&count_private=true&include_all_commits=true" alt="Stats" />
-</a>
+<p align="left">
+  <img height="156em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eleni-chr&hide=html&layout=compact&theme=transparent&langs_count=10"/>
+</p>
 
-Powered by [Github stats](https://github.com/anuraghazra/github-readme-stats).
+<p align="left">
+  <img height="156em" src="https://github-readme-stats.vercel.app/api?username=eleni-chr&show_icons=true&line_height=27&count_private=true&theme=transparent&count_private=true&include_all_commits=true" alt="Stats"/>
+</p>
+
+<p align="left">
+ <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=eleni-chr&theme=transparent&hide_border=false"/>
+</p>
+
+<p align="left">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eleni-chr&theme=default"/>
+</p>
+
+<br/>
+<hr/>
+  
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=eleni-chr&label=Visitors&color=0088cc&style=flat-square" alt="eleni-chr" /> </p>
