@@ -23,13 +23,11 @@ My older repositories include code I wrote for practice when learning programmin
 
 ## 🔭 I’m currently working on:
 
-- Creating a graphical user interface for visualising global infectious disease cases.
-- Applying machine learning methods for data classification and prediction.
+- Creating a GUI for improved data analysis of biological data.
 
 ## 🌱 I’m currently learning:
 
-- Methods for signal frequency analysis.
-- Methods of manipulating high dimensional datasets for visualisation and analysis.
+- Python and Java.
 
 ## 📫 How to reach me:
 
