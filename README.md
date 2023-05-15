@@ -26,10 +26,6 @@ My older repositories include code I wrote for practice when learning programmin
 
 - Creating a GUI for improved data analysis of biological data.
 
-## 🌱 I’m currently learning:
-
-- Python and Java.
-
 ## 📫 How to reach me:
 
 [![Website Badge](https://img.shields.io/badge/Website-informational?style=flat&color=FF9E0F)](https://elenichr.com)
