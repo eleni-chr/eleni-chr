@@ -22,10 +22,6 @@ My older repositories include code I wrote for practice when learning programmin
 ![](https://img.shields.io/badge/OS-Ubuntu-informational?style=flat&logo=ubuntu&logoColor=white&color=f3b745)
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=f3b745)
 
-## 🔭 I’m currently working on:
-
-- Creating a GUI for improved data analysis of biological data.
-
 ## 📫 How to reach me:
 
 [![Website Badge](https://img.shields.io/badge/Website-informational?style=flat&color=FF9E0F)](https://elenichr.com)
