@@ -1,6 +1,6 @@
 ### 👋 Hi,
 
-I am a neuroscientist and I regularly write code for data analysis for my experiments.
+I am a research scientist and I regularly write code for data analysis for my experiments.
 
 - For microscopy image processing and analysis I use MATLAB and the Java-based image analysis software, ImageJ.
 - For bioinformatics analysis (data from RNA sequencing) I use R/RStudio, and data processing toolkits run via the Linux and Windows command lines.
@@ -22,11 +22,18 @@ My older repositories include code I wrote for practice when learning programmin
 ![](https://img.shields.io/badge/OS-Ubuntu-informational?style=flat&logo=ubuntu&logoColor=white&color=f3b745)
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=f3b745)
 
+## ✍️ Expert Contributor to LinkedIn Collaborative Articles
+
+Invited as an expert to contribute to the following articles:
+- [How do you balance speed and accuracy in limited time programming problems?](https://www.linkedin.com/advice/3/how-do-you-balance-speed-accuracy-limited-time-programming?trackingId=AIc2O7vhwH43aYefmyEZkQ%3D%3D&updateUrn=urn%3Ali%3Aactivity%3A7099331315279228928&trk=fv)
+- [How do you adjust your documentation for different readers?](https://www.linkedin.com/advice/0/how-do-you-adjust-your-documentation-different-readers?trackingId=2npx%2BHe5SNBj5g%2FVFaIGCQ%3D%3D&updateUrn=urn%3Ali%3Aactivity%3A7099321401269972992&trk=fv)
+- [How do you check if your software documentation is accurate and usable?](https://www.linkedin.com/advice/0/how-do-you-check-your-software-documentation-accurate?trackingId=CNrb0Jg0azmS7pDFa0bVBA%3D%3D&updateUrn=urn%3Ali%3Aactivity%3A7099328731164340224&trk=fv)
+
 ## 📫 How to reach me:
 
 [![Website Badge](https://img.shields.io/badge/Website-informational?style=flat&color=FF9E0F)](https://elenichr.com)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/elenichristoforidou/)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-informational?style=flat&logo=twitter&logoColor=white&color=1DA1F2)](https://twitter.com/EleniVChristof)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-informational?style=flat&logo=twitter&logoColor=white&color=1DA1F2)](https://twitter.com/DrEleniChristof)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-informational?style=flat&logo=instagram&logoColor=white&color=E4405F)](https://www.instagram.com/neuroscientist.at.work)
 [![ResearchGate Badge](https://img.shields.io/badge/ResearchGate-informational?style=flat&logo=researchgate&logoColor=white&color=00CCBB)](https://www.researchgate.net/profile/Eleni_Christoforidou2)
 [![ORCID Badge](https://img.shields.io/badge/ORCID-informational?style=flat&logo=orcid&logoColor=white&color=A6CE39)](https://orcid.org/0000-0002-9352-4908)
