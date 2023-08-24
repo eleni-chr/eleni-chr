@@ -18,10 +18,6 @@ My older repositories include code I wrote for practice when learning programmin
 ![](https://img.shields.io/badge/App-RStudio-informational?style=flat&logo=rstudio&logoColor=white&color=f3b745)
 ![](https://img.shields.io/badge/App-OpenSCAD-informational?style=flat&color=f3b745)
 
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=f3b745)
-![](https://img.shields.io/badge/OS-Ubuntu-informational?style=flat&logo=ubuntu&logoColor=white&color=f3b745)
-![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=f3b745)
-
 ## ✍️ Expert Contributor to LinkedIn Collaborative Articles
 
 Invited as an expert to contribute to the following articles:
