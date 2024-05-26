@@ -14,8 +14,8 @@ My older repositories include code I wrote for practice when learning programmin
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=f3b745)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=f3b745)
 
-![](https://img.shields.io/badge/App-ImageJ-informational?style=flat&logo=imagej&logoColor=white&color=f3b745)
 ![](https://img.shields.io/badge/App-RStudio-informational?style=flat&logo=rstudio&logoColor=white&color=f3b745)
+![](https://img.shields.io/badge/App-ImageJ-informational?style=flat&logo=imagej&logoColor=white&color=f3b745)
 ![](https://img.shields.io/badge/App-OpenSCAD-informational?style=flat&color=f3b745)
 
 ## ✍️ Expert Contributor to LinkedIn Collaborative Articles
