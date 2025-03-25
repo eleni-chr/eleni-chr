@@ -34,7 +34,6 @@ LinkedIn has awarded me the "Top Programming Voice" badge. This exclusive recogn
 [![Website Badge](https://img.shields.io/badge/Website-informational?style=flat&color=FF9E0F)](https://elenichr.com)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/elenichristoforidou/)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-informational?style=flat&logo=twitter&logoColor=white&color=1DA1F2)](https://twitter.com/DrEleniChristof)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-informational?style=flat&logo=instagram&logoColor=white&color=E4405F)](https://www.instagram.com/neuroscientist.at.work)
 [![ResearchGate Badge](https://img.shields.io/badge/ResearchGate-informational?style=flat&logo=researchgate&logoColor=white&color=00CCBB)](https://www.researchgate.net/profile/Eleni_Christoforidou2)
 [![ORCID Badge](https://img.shields.io/badge/ORCID-informational?style=flat&logo=orcid&logoColor=white&color=A6CE39)](https://orcid.org/0000-0002-9352-4908)
 
