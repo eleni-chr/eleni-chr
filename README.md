@@ -16,17 +16,6 @@ I am a research scientist and I regularly write code for data analysis for my ex
 ![](https://img.shields.io/badge/App-ImageJ-informational?style=flat&logo=imagej&logoColor=white&color=f3b745)
 ![](https://img.shields.io/badge/App-OpenSCAD-informational?style=flat&color=f3b745)
 
-## ✍️ Expert Contributor to LinkedIn Collaborative Articles
-
-Invited as an expert to contribute to the following articles:
-- [How do you balance speed and accuracy in limited time programming problems?](https://www.linkedin.com/advice/3/how-do-you-balance-speed-accuracy-limited-time-programming?trackingId=AIc2O7vhwH43aYefmyEZkQ%3D%3D&updateUrn=urn%3Ali%3Aactivity%3A7099331315279228928&trk=fv)
-- [How do you adjust your documentation for different readers?](https://www.linkedin.com/advice/0/how-do-you-adjust-your-documentation-different-readers?trackingId=2npx%2BHe5SNBj5g%2FVFaIGCQ%3D%3D&updateUrn=urn%3Ali%3Aactivity%3A7099321401269972992&trk=fv)
-- [How do you check if your software documentation is accurate and usable?](https://www.linkedin.com/advice/0/how-do-you-check-your-software-documentation-accurate?trackingId=CNrb0Jg0azmS7pDFa0bVBA%3D%3D&updateUrn=urn%3Ali%3Aactivity%3A7099328731164340224&trk=fv)
-
-#### 🏆 Top Programming Voice Badge, September 2023
-
-LinkedIn has awarded me the "Top Programming Voice" badge. This exclusive recognition is only given to noteworthy contributors in specialised fields. The badge symbolises not just my active contributions but also their perceived value in the professional community.
-
 ## 📫 How to reach me:
 
 [![Website Badge](https://img.shields.io/badge/Website-informational?style=flat&color=FF9E0F)](https://elenichr.com)
