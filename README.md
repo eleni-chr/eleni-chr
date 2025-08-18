@@ -3,7 +3,7 @@
 I am a research scientist specialising in neuroscience and molecular and cellular biology and I regularly write code for data analysis for my experiments.
 
 - For microscopy image processing and analysis I use MATLAB and the Java-based image analysis software, ImageJ.
-- For bioinformatics analysis (data from RNA sequencing) I use MATLAB, R/RStudio, and data processing toolkits run via the Linux and Windows command lines.
+- For bioinformatics analysis (data from RNA sequencing) I use MATLAB, R/RStudio, and data processing toolkits run via Ubuntu.
 
 ## 💼 Programming Skills:
 
