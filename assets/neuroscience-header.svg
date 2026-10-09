@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 420" width="1600" height="420" role="img" aria-labelledby="title desc">
+<title id="title">Dr Eleni Christoforidou — Neuroscience × Space Biology × Code</title>
+<desc id="desc">Dark navy scientific profile header with teal neuron illustration and gold accent.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#071827"/><stop offset="0.57" stop-color="#0B2333"/><stop offset="1" stop-color="#133747"/></linearGradient>
+  <radialGradient id="glow" cx="50%" cy="50%" r="50%"><stop offset="0" stop-color="#48CEBF" stop-opacity=".27"/><stop offset="1" stop-color="#48CEBF" stop-opacity="0"/></radialGradient>
+  <linearGradient id="neuron" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#B0F0DF"/><stop offset="1" stop-color="#4ABCAF"/></linearGradient>
+  <pattern id="grid" x="0" y="0" width="43" height="43" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.2" fill="#8AC7CE" fill-opacity=".13"/></pattern>
+</defs>
+<rect width="1600" height="420" fill="url(#bg)" />
+<rect width="1600" height="420" fill="url(#grid)" />
+<circle cx="1330" cy="210" r="310" fill="url(#glow)" />
+<path d="M65 54 H935" stroke="#8FDBCF" stroke-width="2" opacity=".35" />
+<rect x="65" y="53" width="103" height="3" rx="1.5" fill="#E7C891" />
+<text x="95" y="111" fill="#7ADBCB" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700" letter-spacing="4.2">NEUROSCIENCE  /  SPACE BIOLOGY  /  OPEN SCIENCE</text>
+<text x="91" y="193" fill="#F5F8F9" font-family="Arial, Helvetica, sans-serif" font-size="64" font-weight="700" letter-spacing="-1.7">Dr Eleni Christoforidou</text>
+<text x="95" y="258" fill="#D7E9EA" font-family="Arial, Helvetica, sans-serif" font-size="33" font-weight="400">Turning complex biological data into insight.</text>
+<path d="M96 304 H838" stroke="#98C8C6" stroke-opacity=".3" stroke-width="2"/>
+<text x="96" y="352" fill="#E9C68A" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="600" letter-spacing="1.2">ALS / MND   ·   SPACE BIOLOGY   ·   TRANSCRIPTOMICS</text>
+
+<path d="M1300 197 C1257 167 1234 130 1211 91 C1199 74 1181 62 1158 55" fill="none" stroke="url(#neuron)" stroke-width="6.2" stroke-linecap="round" stroke-linejoin="round" opacity=".85"/>
+<path d="M1211 91 C1210 66 1212 45 1194 22" fill="none" stroke="url(#neuron)" stroke-width="3.1" stroke-linecap="round" stroke-linejoin="round" opacity=".85"/>
+<path d="M1211 91 C1175 101 1155 89 1126 82" fill="none" stroke="url(#neuron)" stroke-width="3.3" stroke-linecap="round" stroke-linejoin="round" opacity=".85"/>
+<path d="M1295 197 C1264 197 1229 199 1192 177 C1175 164 1153 158 1131 157" fill="none" stroke="url(#neuron)" stroke-width="6.7" stroke-linecap="round" stroke-linejoin="round" opacity=".85"/>
+<path d="M1192 177 C1185 150 1162 135 1139 123" fill="none" stroke="url(#neuron)" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round" opacity=".85"/>
+<path d="M1192 177 C1160 187 1134 197 1104 190" fill="none" stroke="url(#neuron)" stroke-width="3.3" stroke-linecap="round" stroke-linejoin="round" opacity=".85"/>
+<path d="M1291 217 C1252 230 1238 256 1211 279 C1189 301 1160 310 1136 305" fill="none" stroke="url(#neuron)" stroke-width="6.5" stroke-linecap="round" stroke-linejoin="round" opacity=".85"/>
+<path d="M1211 279 C1188 267 1161 271 1137 262" fill="none" stroke="url(#neuron)" stroke-width="3.1" stroke-linecap="round" stroke-linejoin="round" opacity=".85"/>
+<path d="M1211 279 C1211 313 1197 338 1178 356" fill="none" stroke="url(#neuron)" stroke-width="3.6" stroke-linecap="round" stroke-linejoin="round" opacity=".85"/>
+<path d="M1311 225 C1312 268 1325 285 1330 314 C1335 341 1321 369 1313 391" fill="none" stroke="url(#neuron)" stroke-width="5.7" stroke-linecap="round" stroke-linejoin="round" opacity=".85"/>
+<path d="M1330 314 C1363 332 1380 355 1387 393" fill="none" stroke="url(#neuron)" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round" opacity=".85"/>
+<path d="M1330 314 C1298 333 1286 352 1271 377" fill="none" stroke="url(#neuron)" stroke-width="3.1" stroke-linecap="round" stroke-linejoin="round" opacity=".85"/>
+<path d="M1323 190 C1341 158 1354 144 1355 117 C1356 88 1373 72 1392 52" fill="none" stroke="url(#neuron)" stroke-width="5.2" stroke-linecap="round" stroke-linejoin="round" opacity=".85"/>
+<path d="M1355 117 C1383 132 1408 124 1425 115" fill="none" stroke="url(#neuron)" stroke-width="3.0" stroke-linecap="round" stroke-linejoin="round" opacity=".85"/>
+<path d="M1355 117 C1335 88 1333 65 1334 39" fill="none" stroke="url(#neuron)" stroke-width="3.0" stroke-linecap="round" stroke-linejoin="round" opacity=".85"/>
+<path d="M1333 207 C1365 197 1396 191 1427 191 C1457 194 1481 182 1500 158" fill="none" stroke="url(#neuron)" stroke-width="6.0" stroke-linecap="round" stroke-linejoin="round" opacity=".85"/>
+<path d="M1427 191 C1450 221 1473 233 1502 227" fill="none" stroke="url(#neuron)" stroke-width="3.1" stroke-linecap="round" stroke-linejoin="round" opacity=".85"/>
+<path d="M1427 191 C1444 174 1452 149 1461 126" fill="none" stroke="url(#neuron)" stroke-width="3.2" stroke-linecap="round" stroke-linejoin="round" opacity=".85"/>
+<circle cx="1158" cy="55" r="4.6" fill="#E6C991" opacity=".85"/>
+<circle cx="1194" cy="22" r="4.6" fill="#E6C991" opacity=".85"/>
+<circle cx="1126" cy="82" r="4.6" fill="#E6C991" opacity=".85"/>
+<circle cx="1131" cy="157" r="4.6" fill="#E6C991" opacity=".85"/>
+<circle cx="1139" cy="123" r="4.6" fill="#E6C991" opacity=".85"/>
+<circle cx="1104" cy="190" r="4.6" fill="#E6C991" opacity=".85"/>
+<circle cx="1136" cy="305" r="4.6" fill="#E6C991" opacity=".85"/>
+<circle cx="1137" cy="262" r="4.6" fill="#E6C991" opacity=".85"/>
+<circle cx="1178" cy="356" r="4.6" fill="#E6C991" opacity=".85"/>
+<circle cx="1313" cy="391" r="4.6" fill="#E6C991" opacity=".85"/>
+<circle cx="1387" cy="393" r="4.6" fill="#E6C991" opacity=".85"/>
+<circle cx="1271" cy="377" r="4.6" fill="#E6C991" opacity=".85"/>
+<circle cx="1392" cy="52" r="4.6" fill="#E6C991" opacity=".85"/>
+<circle cx="1425" cy="115" r="4.6" fill="#E6C991" opacity=".85"/>
+<circle cx="1334" cy="39" r="4.6" fill="#E6C991" opacity=".85"/>
+<circle cx="1500" cy="158" r="4.6" fill="#E6C991" opacity=".85"/>
+<circle cx="1502" cy="227" r="4.6" fill="#E6C991" opacity=".85"/>
+<circle cx="1461" cy="126" r="4.6" fill="#E6C991" opacity=".85"/>
+<path d="M1322 209 C1379 225 1424 256 1485 287 C1530 308 1559 329 1608 338" fill="none" stroke="url(#neuron)" stroke-width="8" stroke-linecap="round" opacity=".78"/>
+<path d="M1463 277 L1484 288 M1510 298 L1533 311 M1550 320 L1573 331" fill="none" stroke="#EBCF9B" stroke-width="14" stroke-linecap="round" opacity=".92"/>
+<circle cx="1313" cy="209" r="44" fill="#1A5B61" stroke="#90E6D7" stroke-width="5"/>
+<circle cx="1313" cy="209" r="32" fill="#24767B" opacity=".75"/>
+<ellipse cx="1312" cy="209" rx="16" ry="12" fill="#B2E8D8" opacity=".82"/>
+<ellipse cx="1316" cy="206" rx="7" ry="5" fill="#EBD19F" opacity=".86"/>
+<circle cx="1313" cy="209" r="102" fill="none" stroke="#8AD4C7" stroke-width="1" opacity=".12"/>
+<circle cx="1313" cy="209" r="157" fill="none" stroke="#8AD4C7" stroke-width="1" opacity=".075"/>
+<path d="M69 387 H1534" stroke="#85C2BD" stroke-opacity=".16" stroke-width="2" />
+</svg>
