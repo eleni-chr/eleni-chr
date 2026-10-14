@@ -1,97 +1,65 @@
-<!--
-  GitHub profile README for github.com/eleni-chr
-  Place the accompanying SVG in assets/neuroscience-header.svg.
-  The six linked repositories below are public; the three upcoming repositories are not yet linked.
--->
+<!-- GitHub profile README for github.com/eleni-chr -->
 
 <div align="center">
-  <img src="assets/neuroscience-header.svg" alt="Dr Eleni Christoforidou — neuroscience, space biology, computation and open science" width="100%" />
+  <img src="assets/elegant-research-banner.svg" alt="Dr Eleni Christoforidou — Neuroscience, Computational Space Biology and Data Science" width="100%" />
 
   <br />
+  <br />
 
-  <p><strong>Neuroscientist (PhD) · Post-doctoral Research Fellow, University of Sussex</strong></p>
-  <p><strong>9</strong> research publications &nbsp;·&nbsp; <strong>5</strong> archived software releases &nbsp;·&nbsp; <strong>2</strong> public RNA-seq datasets</p>
+  <strong>Dr Eleni Christoforidou, PhD</strong><br />
+  Neuroscientist · Post-Doctoral Research Fellow, University of Sussex
 
-  <a href="https://www.elenichr.com/"><img src="https://img.shields.io/badge/Website-0D2D3C?style=flat-square&logo=googlechrome&logoColor=white" alt="Website" /></a>
+  <br />
+  <br />
+
+  <a href="https://www.elenichr.com/"><img src="https://img.shields.io/badge/Website-163547?style=flat-square&logo=googlechrome&logoColor=white" alt="Website" /></a>
   <a href="https://orcid.org/0000-0002-9352-4908"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white" alt="ORCID" /></a>
   <a href="https://www.linkedin.com/in/elenichristoforidou/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://www.instagram.com/neuroscientist.at.work/"><img src="https://img.shields.io/badge/Science_communication-C13584?style=flat-square&logo=instagram&logoColor=white" alt="Science communication on Instagram" /></a>
+  <a href="https://www.instagram.com/neuroscientist.at.work/"><img src="https://img.shields.io/badge/Science_Communication-C13584?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </div>
 
 ---
 
-### 👋 About me
+## About
 
-I am **Dr Eleni Christoforidou**, a neuroscientist investigating neurodegeneration, neuroinflammation, and neuromuscular diseases through molecular biology, cellular biology, transcriptomics, bioinformatics, and quantitative imaging. I develop computational tools and analysis pipelines to make complex biological data interpretable, from microscopy to high-throughput sequencing.
+I am a neuroscientist investigating neurodegeneration, neuroinflammation, and neuromuscular diseases through molecular biology, cellular biology, transcriptomics, bioinformatics, and quantitative imaging. My work focuses on building and applying computational workflows that help make complex biological datasets interpretable and reproducible.
 
-I am also expanding into **computational space biology** as a **complementary research area**, by analysing spaceflight datasets from NASA, JAXA, and other sources.
+Alongside my core research in neurodegeneration, I am also developing **computational space biology** as a complementary area of interest, using NASA and JAXA spaceflight datasets to study how biological systems respond to microgravity.
 
-Across both areas, I value **open science, reproducible workflows, and transparent quantitative methods**.
+I am committed to **open science, transparent methods and reusable research software**.
 
-### 🔬 Research areas
+## Research focus
 
-| 🧠 Neurodegeneration | 🧬 Molecular & RNA biology |
+- **Neurodegeneration and neuromuscular biology** — ALS/MND, skeletal muscle, motor neurons and neuromuscular junctions
+- **RNA and molecular data analysis** — RNA-seq, microRNA biology, alternative polyadenylation and transcriptomic profiling
+- **Computational space biology** — spaceflight biology, unloading/reloading models and cross-dataset omics analysis
+- **Quantitative imaging and image analysis** — confocal microscopy, fluorescence localisation, morphometry and spatial analysis
+- **Data science for biology** — reproducible analysis pipelines, statistical modelling, visualisation and open computational workflows
+
+## Selected repositories
+
+| Repository | Focus |
 | :--- | :--- |
-| ALS/MND, motor neurons, neuromuscular junctions, skeletal muscle | RNA-seq, microRNA biomarkers, alternative polyadenylation, gene regulation |
-| **🛰️ Computational space biology** | **🔍 Quantitative imaging** |
-| Spaceflight omics, microgravity-associated changes, mechanical unloading and recovery | Confocal microscopy, cell morphometry, fluorescence localisation, spatial statistics |
+| [**NMJ-MN-image-analysis-toolkit**](https://github.com/eleni-chr/NMJ-MN-image-analysis-toolkit) | Morphometric and localisation analysis of neuromuscular-junction and motor-neuron microscopy images |
+| [**interneuron-microscopy-analysis**](https://github.com/eleni-chr/interneuron-microscopy-analysis) | ImageJ/Fiji and MATLAB pipeline for interneuron quantification and spatial-distribution analysis |
+| [**long-read-RNA-seq-plotting-suite**](https://github.com/eleni-chr/long-read-RNA-seq-plotting-suite) | Utilities for inspecting, extracting and visualising long-read RNA-seq data |
+| [**qPCR-replicate-analysis**](https://github.com/eleni-chr/qPCR-replicate-analysis) | Statistical analysis of qPCR technical replicates and reproducibility |
+| [**cell-morphometry**](https://github.com/eleni-chr/cell-morphometry) | Quantitative extraction of cell-shape and morphology descriptors from microscopy images |
+| [**colocalisation**](https://github.com/eleni-chr/colocalisation) | Pixel-based fluorescence colocalisation analysis for confocal microscopy images |
 
-### ✨ Open research software
+## Forthcoming repositories
 
-<table>
-<tr>
-<td width="50%" valign="top">
-  <h3>🧠 <a href="https://github.com/eleni-chr/NMJ-MN-image-analysis-toolkit">NMJ &amp; motor-neuron imaging toolkit</a></h3>
-  <p>Morphometric analysis of neuromuscular junctions and protein localisation in microscopy images.</p>
-  <code>MATLAB</code> <code>Image analysis</code> <code>NMJ</code>
-</td>
-<td width="50%" valign="top">
-  <h3>🔬 <a href="https://github.com/eleni-chr/interneuron-microscopy-analysis">Spinal-cord interneuron analysis</a></h3>
-  <p>An ImageJ/Fiji and MATLAB pipeline for interneuron density and spatial-distribution analysis.</p>
-  <code>MATLAB</code> <code>ImageJ</code> <code>Spatial statistics</code>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-  <h3>🧬 <a href="https://github.com/eleni-chr/long-read-RNA-seq-plotting-suite">Long-read RNA-seq toolkit</a></h3>
-  <p>Functions for sequencing-data inspection, extraction, processing and visualisation.</p>
-  <code>MATLAB</code> <code>RNA-seq</code> <code>Bioinformatics</code>
-</td>
-<td width="50%" valign="top">
-  <h3>📊 <a href="https://github.com/eleni-chr/qPCR-replicate-analysis">qPCR replicate analysis</a></h3>
-  <p>Statistical workflows for assessing Ct consistency and reliability across technical replicates.</p>
-  <code>MATLAB</code> <code>Statistics</code> <code>Reproducibility</code>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-  <h3>🧫 <a href="https://github.com/eleni-chr/cell-morphometry">Cell morphometry</a></h3>
-  <p>Extracts quantitative measurements of cell shape, including area, circularity and other descriptors.</p>
-  <code>MATLAB</code> <code>Microscopy</code>
-</td>
-<td width="50%" valign="top">
-  <h3>🎯 <a href="https://github.com/eleni-chr/colocalisation">Fluorescence colocalisation</a></h3>
-  <p>Measures pixel-based colocalisation between colour channels in confocal microscopy images.</p>
-  <code>MATLAB</code> <code>Image processing</code>
-</td>
-</tr>
-</table>
+These analysis repositories are currently being prepared for public release.
 
-<sub>Research code comes with project-specific documentation. Some workflows were developed for particular datasets and may require adaptation before reuse.</sub>
-
-### 🚀 Upcoming research repositories
-
-The following analyses underpin manuscripts I have written. **Their code repositories are being prepared for public release**; links will be added once available.
-
-| Project | Analysis and methods |
+| Project | Status |
 | :--- | :--- |
-| **🛰️ ALS muscle × spaceflight & mechanical unloading**<br><sub>Repository coming soon · Space biology + neuroscience</sub> | Comparative transcriptomics of ALS skeletal muscle, NASA spaceflight experiments and ground-based unloading/reloading models. Differential expression, pathway enrichment, cross-dataset concordance and reversible gene-expression programmes. |
-| **🧬 Alternative polyadenylation in TDP-43 muscle**<br><sub>Repository coming soon · RNA biology</sub> | Analysis of changes in 3′-UTR usage, mRNA expression and microRNA-associated regulation across disease stages in a TDP-43 mouse model of ALS. |
-| **🩸 Circulating microRNA biomarkers in ALS**<br><sub>Repository coming soon · Translational transcriptomics</sub> | Longitudinal analysis of plasma microRNA profiles and assessment of candidate biomarkers across independent clinical sample cohorts, including plasma/serum cross-cohort comparisons. |
+| **ALS muscle × spaceflight and mechanical unloading** | Comparative transcriptomics, pathway enrichment and reversible gene-programme analysis · *Repository coming soon* |
+| **Alternative polyadenylation in TDP-43 muscle** | APA, mRNA expression and regulatory analysis across disease stages · *Repository coming soon* |
+| **Plasma microRNA biomarkers in ALS** | Longitudinal biomarker analysis and cross-cohort comparison · *Repository coming soon* |
 
-### 🛠️ Scientific computing toolkit
+## Methods and tools
 
-**Languages and environments**
+**Languages and platforms**
 
 ![MATLAB](https://img.shields.io/badge/MATLAB-0F3144?style=flat-square)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
@@ -100,25 +68,22 @@ The following analyses underpin manuscripts I have written. **Their code reposit
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Fiji / ImageJ](https://img.shields.io/badge/Fiji%20%2F%20ImageJ-1A777D?style=flat-square)
 
-**Methods and interests**
+**Methods**
 
-`RNA-seq` · `microRNA analysis` · `Alternative polyadenylation` · `DESeq2` · `GSEA / pathway enrichment` · `NASA OSDR data` · `Confocal microscopy` · `Image processing` · `Statistical analysis` · `Reproducible workflows`
+`RNA-seq` · `Differential expression` · `DESeq2` · `microRNA analysis` · `Alternative polyadenylation` · `Pathway enrichment` · `Confocal microscopy` · `Image analysis` · `Statistical analysis` · `Data visualisation` · `Open science`
 
-### 📖 Publications and open research
+## Open research
 
-My work sits at the intersection of **neuroscience, molecular biology and computational analysis**, with a developing complementary focus on **space biology**. Where possible, I share analytical code, document methods and archive reusable research outputs.
+- **Publications and profile:** [Website](https://www.elenichr.com/) · [Publications](https://www.elenichr.com/publications) · [ORCID](https://orcid.org/0000-0002-9352-4908)
+- **Open datasets:** [PRJEB96186](https://www.ebi.ac.uk/ena/browser/view/PRJEB96186) · [PRJEB61796](https://www.ebi.ac.uk/ena/browser/view/PRJEB61796)
+- **Research background:** [Research experience](https://www.elenichr.com/research-experience) · [Coding experience](https://www.elenichr.com/coding-experience)
 
-- 📚 **Peer-reviewed work:** [Publications](https://www.elenichr.com/publications) · [ORCID](https://orcid.org/0000-0002-9352-4908)
-- 🧬 **Open sequencing datasets:** [PRJEB96186](https://www.ebi.ac.uk/ena/browser/view/PRJEB96186) · [PRJEB61796](https://www.ebi.ac.uk/ena/browser/view/PRJEB61796) (European Nucleotide Archive)
-- 📦 **Citable research software:** the [NMJ imaging toolkit](https://github.com/eleni-chr/NMJ-MN-image-analysis-toolkit), [cell morphometry](https://github.com/eleni-chr/cell-morphometry) and other repositories include Zenodo DOI links.
-- 🌐 **More about my work:** [Research experience](https://www.elenichr.com/research-experience) · [Coding experience](https://www.elenichr.com/coding-experience)
+## Connect
 
-### 🤝 Connect
-
-Interested in **neuroscience, space biology, quantitative imaging, research software, or reproducible omics analysis**? Find me on [LinkedIn](https://www.linkedin.com/in/elenichristoforidou/) or through [my website](https://www.elenichr.com/). I also share accessible science content at [@neuroscientist.at.work](https://www.instagram.com/neuroscientist.at.work/).
+If your interests overlap with **ALS/MND, computational biology, space biology, imaging, transcriptomics or data science**, feel free to connect via [LinkedIn](https://www.linkedin.com/in/elenichristoforidou/) or through [my website](https://www.elenichr.com/).
 
 ---
 
 <div align="center">
-  <sub>Research-driven code. Reproducible methods. Open scientific exchange.</sub>
+  <sub>Open scientific code · Reproducible methods · Quantitative biology</sub>
 </div>
