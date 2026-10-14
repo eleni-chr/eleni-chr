@@ -22,11 +22,11 @@
 
 ### 👋 About me
 
-I am **Dr Eleni Christoforidou**, a neuroscientist investigating **amyotrophic lateral sclerosis / motor neuron disease (ALS/MND)** through molecular biology, transcriptomics and quantitative imaging. I develop computational tools and analysis pipelines to make complex biological data interpretable, from confocal microscopy to high-throughput sequencing.
+I am **Dr Eleni Christoforidou**, a neuroscientist investigating neurodegeneration, neuroinflammation, and neuromuscular diseases through molecular biology, cellular biology, transcriptomics, bioinformatics, and quantitative imaging. I develop computational tools and analysis pipelines to make complex biological data interpretable, from microscopy to high-throughput sequencing.
 
-I am also expanding into **computational space biology** as a **complementary research area**, by analysing spaceflight datasets from NASA.
+I am also expanding into **computational space biology** as a **complementary research area**, by analysing spaceflight datasets from NASA, JAXA, and other sources.
 
-Across both areas, I value **open science, reproducible workflows and transparent quantitative methods**.
+Across both areas, I value **open science, reproducible workflows, and transparent quantitative methods**.
 
 ### 🔬 Research areas
 
