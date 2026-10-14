@@ -115,7 +115,7 @@ My work sits at the intersection of **neuroscience, molecular biology and comput
 
 ### 🤝 Connect
 
-Interested in **ALS/MND, space biology, quantitative imaging, research software or reproducible omics analysis**? Find me on [LinkedIn](https://www.linkedin.com/in/elenichristoforidou/) or through [my website](https://www.elenichr.com/). I also share accessible science content at [@neuroscientist.at.work](https://www.instagram.com/neuroscientist.at.work/).
+Interested in **neuroscience, space biology, quantitative imaging, research software, or reproducible omics analysis**? Find me on [LinkedIn](https://www.linkedin.com/in/elenichristoforidou/) or through [my website](https://www.elenichr.com/). I also share accessible science content at [@neuroscientist.at.work](https://www.instagram.com/neuroscientist.at.work/).
 
 ---
 
