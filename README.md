@@ -6,8 +6,8 @@
   <br />
   <br />
 
-  <strong>Dr Eleni Christoforidou, PhD</strong><br />
-  Neuroscientist · Post-Doctoral Research Fellow, University of Sussex
+  <strong>Dr Eleni Christoforidou, PhD, FHEA</strong><br />
+  Neuroscientist · Post-Doctoral Research Fellow
 
   <br />
   <br />
