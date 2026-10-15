@@ -1,7 +1,7 @@
 <!-- GitHub profile README for github.com/eleni-chr -->
 
 <div align="center">
-  <img src="assets/elegant-research-banner.svg" alt="Dr Eleni Christoforidou — Neuroscience, Computational Space Biology and Data Science" width="100%" />
+  <img src="banner.png" alt="Dr Eleni Christoforidou — Neuroscience, Computational Space Biology and Data Science" width="100%" />
 
   <br />
   <br />
