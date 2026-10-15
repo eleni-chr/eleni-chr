@@ -6,12 +6,6 @@
   <br />
   <br />
 
-  <strong>Dr Eleni Christoforidou, PhD, FHEA</strong><br />
-  Neuroscientist · Post-Doctoral Research Fellow
-
-  <br />
-  <br />
-
   <a href="https://www.elenichr.com/"><img src="https://img.shields.io/badge/Website-163547?style=flat-square&logo=googlechrome&logoColor=white" alt="Website" /></a>
   <a href="https://orcid.org/0000-0002-9352-4908"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white" alt="ORCID" /></a>
   <a href="https://www.linkedin.com/in/elenichristoforidou/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -22,19 +16,19 @@
 
 ## About
 
-I am a neuroscientist investigating neurodegeneration, neuroinflammation, and neuromuscular diseases through molecular biology, cellular biology, transcriptomics, bioinformatics, and quantitative imaging. My work focuses on building and applying computational workflows that help make complex biological datasets interpretable and reproducible.
+I am a neuroscientist investigating **neurodegeneration, neuroinflammation, and neuromuscular diseases** through **molecular biology, cellular biology, transcriptomics, bioinformatics, and quantitative imaging**. My work focuses on building and applying computational workflows that help make complex biological datasets interpretable and reproducible.
 
-Alongside my core research in neurodegeneration, I am also developing **computational space biology** as a complementary area of interest, using NASA and JAXA spaceflight datasets to study how biological systems respond to microgravity.
+Alongside my core research, I am also developing **computational space biology** as a complementary area of interest, using **NASA and JAXA spaceflight datasets** to study how biological systems respond to microgravity.
 
-I am committed to **open science, transparent methods and reusable research software**.
+I am committed to **open science, transparent methods, and reusable research software**.
 
 ## Research focus
 
-- **Neurodegeneration and neuromuscular biology** — ALS/MND, skeletal muscle, motor neurons and neuromuscular junctions
-- **RNA and molecular data analysis** — RNA-seq, microRNA biology, alternative polyadenylation and transcriptomic profiling
-- **Computational space biology** — spaceflight biology, unloading/reloading models and cross-dataset omics analysis
+- **Neurodegeneration and neuromuscular biology** — ALS/MND, skeletal muscle, motor neurons, and neuromuscular junctions
+- **RNA and molecular data analysis** — RNA-seq, microRNA biology, alternative polyadenylation, and transcriptomic profiling
+- **Computational space biology** — spaceflight biology, unloading/reloading models, and spaceflight omics analysis
 - **Quantitative imaging and image analysis** — confocal microscopy, fluorescence localisation, morphometry and spatial analysis
-- **Data science for biology** — reproducible analysis pipelines, statistical modelling, visualisation and open computational workflows
+- **Data science for biology** — reproducible analysis pipelines, statistical modelling, visualisation, and open computational workflows
 
 ## Selected repositories
 
