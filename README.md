@@ -16,9 +16,11 @@
 
 ## About
 
-I am a neuroscientist investigating **neurodegeneration, neuroinflammation, and neuromuscular diseases** through **molecular biology, cellular biology, transcriptomics, bioinformatics, and quantitative imaging**. My work focuses on building and applying computational workflows that help make complex biological datasets interpretable and reproducible.
+I am a neuroscientist investigating **neurodegeneration, neuroinflammation, and neuromuscular diseases** through **molecular biology, cellular biology, transcriptomics, bioinformatics, and quantitative imaging**.
 
-Alongside my core research, I am also developing **computational space biology** as a complementary area of interest, using **NASA and JAXA spaceflight datasets** to study how biological systems respond to microgravity.
+I am also developing **computational space biology** as a complementary research area, using **NASA and JAXA spaceflight datasets** to study how biological systems respond to microgravity.
+
+My work focuses on building and applying computational workflows that help make complex biological datasets interpretable and reproducible.
 
 I am committed to **open science, transparent methods, and reusable research software**.
 
@@ -47,9 +49,9 @@ These analysis repositories are currently being prepared for public release.
 
 | Project | Status |
 | :--- | :--- |
-| **ALS muscle × spaceflight and mechanical unloading** | Comparative transcriptomics, pathway enrichment and reversible gene-programme analysis · *Repository coming soon* |
-| **Alternative polyadenylation in TDP-43 muscle** | APA, mRNA expression and regulatory analysis across disease stages · *Repository coming soon* |
-| **Plasma microRNA biomarkers in ALS** | Longitudinal biomarker analysis and cross-cohort comparison · *Repository coming soon* |
+| **ALS muscle × spaceflight and mechanical unloading** | Comparative transcriptomics, pathway enrichment, and reversible gene-programme analysis · *Repository coming soon* |
+| **Alternative polyadenylation in ALS muscle** | APA, mRNA expression, and regulatory analysis across disease stages · *Repository coming soon* |
+| **microRNA biomarkers in ALS plasma** | Longitudinal biomarker analysis and cross-cohort comparison · *Repository coming soon* |
 
 ## Methods and tools
 
@@ -68,13 +70,9 @@ These analysis repositories are currently being prepared for public release.
 
 ## Open research
 
-- **Publications and profile:** [Website](https://www.elenichr.com/) · [Publications](https://www.elenichr.com/publications) · [ORCID](https://orcid.org/0000-0002-9352-4908)
-- **Open datasets:** [PRJEB96186](https://www.ebi.ac.uk/ena/browser/view/PRJEB96186) · [PRJEB61796](https://www.ebi.ac.uk/ena/browser/view/PRJEB61796)
+- **Publications:** [Publications](https://www.elenichr.com/publications) · [ORCID](https://orcid.org/0000-0002-9352-4908)
+- **Open transcriptomics datasets:** [PRJEB96186](https://www.ebi.ac.uk/ena/browser/view/PRJEB96186) · [PRJEB61796](https://www.ebi.ac.uk/ena/browser/view/PRJEB61796)
 - **Research background:** [Research experience](https://www.elenichr.com/research-experience) · [Coding experience](https://www.elenichr.com/coding-experience)
-
-## Connect
-
-If your interests overlap with **ALS/MND, computational biology, space biology, imaging, transcriptomics or data science**, feel free to connect via [LinkedIn](https://www.linkedin.com/in/elenichristoforidou/) or through [my website](https://www.elenichr.com/).
 
 ---
 
