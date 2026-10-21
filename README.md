@@ -18,7 +18,7 @@
 
 I am a neuroscientist investigating **neurodegeneration, neuroinflammation, and neuromuscular diseases** through **molecular biology, cellular biology, transcriptomics, bioinformatics, and quantitative imaging**.
 
-I am also developing **computational space biology** as a complementary research area, using **NASA and JAXA spaceflight datasets** to study how biological systems respond to microgravity.
+I am also developing **computational space biology** as a complementary research area, using **NASA and JAXA datasets** to study how biological systems respond to spaceflight.
 
 My work focuses on building and applying computational workflows that help make complex biological datasets interpretable and reproducible.
 
