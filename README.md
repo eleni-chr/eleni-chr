@@ -18,7 +18,7 @@
 
 I am a neuroscientist investigating **neurodegeneration, neuroinflammation, and neuromuscular diseases** through **molecular biology, cellular biology, transcriptomics, bioinformatics, and quantitative imaging**.
 
-I am also developing **computational space biology** as a complementary research area, using **NASA and JAXA datasets** to study how biological systems respond to spaceflight.
+I am also developing **computational space biology** as a complementary research area. I am also a member of the **Brain Analysis Working Group** within **NASA’s Open Science Data Repository (OSDR)** initiative, where I contribute to an international scientific community dedicated to advancing collaborative, open-science research using space biology datasets.
 
 My work focuses on building and applying computational workflows that help make complex biological datasets interpretable and reproducible.
 
@@ -36,6 +36,7 @@ I am committed to **open science, transparent methods, and reusable research sof
 
 | Repository | Focus |
 | :--- | :--- |
+| [**ALS × spaceflight muscle transcriptomics**](https://github.com/eleni-chr/als-spaceflight-muscle-transcriptomics) | Comparative transcriptomics, pathway enrichment, and reversible gene-programme analysis |
 | [**NMJ-MN-image-analysis-toolkit**](https://github.com/eleni-chr/NMJ-MN-image-analysis-toolkit) | Morphometric and localisation analysis of neuromuscular-junction and motor-neuron microscopy images |
 | [**interneuron-microscopy-analysis**](https://github.com/eleni-chr/interneuron-microscopy-analysis) | ImageJ/Fiji and MATLAB pipeline for interneuron quantification and spatial-distribution analysis |
 | [**long-read-RNA-seq-plotting-suite**](https://github.com/eleni-chr/long-read-RNA-seq-plotting-suite) | Utilities for inspecting, extracting and visualising long-read RNA-seq data |
@@ -49,7 +50,6 @@ These analysis repositories are currently being prepared for public release.
 
 | Project | Status |
 | :--- | :--- |
-| **ALS muscle × spaceflight and mechanical unloading** | Comparative transcriptomics, pathway enrichment, and reversible gene-programme analysis · *Repository coming soon* |
 | **Alternative polyadenylation in ALS muscle** | APA, mRNA expression, and regulatory analysis across disease stages · *Repository coming soon* |
 | **microRNA biomarkers in ALS plasma** | Longitudinal biomarker analysis and cross-cohort comparison · *Repository coming soon* |
 
@@ -70,8 +70,8 @@ These analysis repositories are currently being prepared for public release.
 
 ## Open research
 
-- **Publications:** [Publications](https://www.elenichr.com/publications) · [ORCID](https://orcid.org/0000-0002-9352-4908)
-- **Open transcriptomics datasets:** [PRJEB96186](https://www.ebi.ac.uk/ena/browser/view/PRJEB96186) · [PRJEB61796](https://www.ebi.ac.uk/ena/browser/view/PRJEB61796)
+- **Publications:** [All publications](https://www.elenichr.com/publications) · [ORCID](https://orcid.org/0000-0002-9352-4908) · [Google Scholar](https://scholar.google.com/citations?user=E_pa3IsAAAAJ&hl=en)
+- **Open transcriptomics and other datasets:** [PRJEB96186](https://www.ebi.ac.uk/ena/browser/view/PRJEB96186) · [PRJEB61796](https://www.ebi.ac.uk/ena/browser/view/PRJEB61796) · [RSV × MND mortality](https://doi.org/10.5281/zenodo.23643722)
 - **Research background:** [Research experience](https://www.elenichr.com/research-experience) · [Coding experience](https://www.elenichr.com/coding-experience)
 
 ---
