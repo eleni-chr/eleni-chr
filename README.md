@@ -18,7 +18,7 @@
 
 I am a neuroscientist investigating **neurodegeneration, neuroinflammation, and neuromuscular diseases** through **molecular biology, cellular biology, transcriptomics, bioinformatics, and quantitative imaging**.
 
-I am also developing **computational space biology** as a complementary research area. I am also a member of the **Brain Analysis Working Group** within **NASA’s Open Science Data Repository (OSDR)** initiative, where I contribute to an international scientific community dedicated to advancing collaborative, open-science research using space biology datasets.
+I am also developing **computational space biology** as a complementary research area. I am a member of the **Brain Analysis Working Group** within **NASA’s Open Science Data Repository (OSDR)** initiative, where I contribute to an international scientific community dedicated to advancing collaborative, open-science research using space biology datasets.
 
 My work focuses on building and applying computational workflows that help make complex biological datasets interpretable and reproducible.
 
